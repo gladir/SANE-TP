@@ -3,7 +3,7 @@ Clone de SANE (Standard Apple Numeric Environment) en Turbo Pascal
 
 <h3>Liste des unités</h3>
 
-Voici la liste des différents fichiers proposés dans DOTNET-TP :
+Voici la liste des différents fichiers proposés dans SANE-TP :
 <table>
   <tr>
     <th>Nom</th>
